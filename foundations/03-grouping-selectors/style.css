@@ -1,0 +1,14 @@
+.button-shared {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.button1-settings {
+    background-color: black;
+    color: white;
+}
+
+.button2-settings {
+    background-color: yellow;
+    color: black;
+}
